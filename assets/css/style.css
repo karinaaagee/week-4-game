@@ -1,0 +1,28 @@
+body{
+    background: url("../images/asanoha-400px.png")
+}
+
+h1{
+    font-weight: bold;
+}
+
+#instructions {
+    color: darkgreen;
+    background-color: rgb(247, 221, 225);
+}
+
+.randomNumber{
+    background-color:  rgb(104, 202, 202);
+    width: 120px;
+    height: 80px;
+}
+
+.scoreboard{
+    background-color: rgb(104, 202, 202);
+    height: 80px;
+    width: 100px;
+}
+
+.totalscore{
+    color:darkgreen;
+}
